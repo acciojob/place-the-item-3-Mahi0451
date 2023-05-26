@@ -1,2 +1,52 @@
 
 /* Your CSS Code here. */
+.holder{
+	
+	
+	width:300px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	
+}
+.item1{
+	background:red;
+	height:60px;
+	width:60px;
+}
+.item2{
+	background:yellow;
+	height:60px;
+	width:60px;
+}
+.item3{
+	background:pink;
+	height:60px;
+	width:60px;
+}
+.item4{
+	background:green;
+	height:60px;
+	width:60px;
+}
+.item5{
+	background:blue;
+	height:60px;
+	width:60px;
+}
+.item6{
+	background:cyan;
+	height:60px;
+	width:60px;
+}
+.item7{
+	background:orange;
+	height:60px;
+	width:60px;
+}
+.item8{
+	background:gray;
+	height:60px;
+	width:60px;
+}
